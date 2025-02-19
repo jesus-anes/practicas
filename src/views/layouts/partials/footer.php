@@ -30,10 +30,10 @@
       <div class="col-md-4 mb-4">
         <h5>CLUBS</h5>
         <ul class="list-unstyled">
-          <li><a href="#" class="text-light text-decoration-none">DOJO JUDO TARRACO</a></li>
-          <li><a href="#" class="text-light text-decoration-none">JUDO RODA</a></li>
-          <li><a href="#" class="text-light text-decoration-none">PATINA DOJO TARRACO</a></li>
-          <li><a href="#" class="text-light text-decoration-none">PATINA CASTELLVELL</a></li>
+          <li><a href="judo-dojo-tarraco.php" class="text-light text-decoration-none">DOJO JUDO TARRACO</a></li>
+          <li><a href="judo-roda.php" class="text-light text-decoration-none">JUDO RODA</a></li>
+          <li><a href="patina-dojo-tarraco.php" class="text-light text-decoration-none">PATINA DOJO TARRACO</a></li>
+          <li><a href="patina-castellvell.php" class="text-light text-decoration-none">PATINA CASTELLVELL</a></li>
         </ul>
       </div>
 

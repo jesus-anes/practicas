@@ -64,7 +64,7 @@
 
     <div class="col-md-4 mb-4">
         <div class="card">
-            <img src="ruta/a/imagen.jpg" class="card-img-top" alt="Patinaje Artístico">
+            <img src="" class="card-img-top" alt="Patinaje Artístico">
             <div class="card-body">
                 <h5 class="card-title">Patinaje Artístico</h5>
                 <p class="card-text">Para niños de Primaria, desarrollo de habilidades en patinaje artístico.</p>

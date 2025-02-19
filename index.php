@@ -90,7 +90,7 @@
                         <div class="card-body text-center">
                             <h5 class="card-title">Club Judo Dojo Tarraco</h5>
                             <p class="card-text">Nuestro club principal con enfoque en judo y valores educativos.</p>
-                            <a href="/clubjudodojotarraco/public/judo-dojo-tarraco.php" class="btn btn-primary">Ver más</a>
+                            <a href="judo-dojo-tarraco.php" class="btn btn-primary">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                         <div class="card-body text-center">
                             <h5 class="card-title">Club Judo Roda</h5>
                             <p class="card-text">Expandiendo los valores del judo en la región.</p>
-                            <a href="/clubjudodojotarraco/public/judo-roda.php" class="btn btn-primary">Ver más</a>
+                            <a href="judo-roda.php" class="btn btn-primary">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                         <div class="card-body text-center">
                             <h5 class="card-title">Club Patina Dojo Tarraco</h5>
                             <p class="card-text">Especializado en patinaje en línea y artístico.</p>
-                            <a href="/clubjudodojotarraco/public/patina-dojo-tarraco.php" class="btn btn-primary">Ver más</a>
+                            <a href="patina-dojo-tarraco.php" class="btn btn-primary">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                         <div class="card-body text-center">
                             <h5 class="card-title">Club Patina Castellvell</h5>
                             <p class="card-text">Patinaje para todas las edades y niveles en Castellvell.</p>
-                            <a href="/clubjudodojotarraco/public/patina-castellvell.php" class="btn btn-primary">Ver más</a>
+                            <a href="patina-castellvell.php" class="btn btn-primary">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
             <h2 class="text-center mb-4">Actividades Extraescolares</h2>
             <p class="text-center">Explora nuestras actividades educativas y deportivas, diseñadas para todas las edades y niveles. </p>
             <div class="text-center">
-                <a href="/clubjudodojotarraco/public/extraescolares.php" class="btn btn-secondary">Ver más detalles</a>
+                <a href="extraescolares.php" class="btn btn-secondary">Ver más detalles</a>
             </div>
         </div>
     </section>
