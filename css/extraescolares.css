@@ -5,3 +5,72 @@ main img {
     object-fit: cover;
     /* Esto asegura que la imagen se recorte en lugar de distorsionarse */
 }
+
+/* General Styles for Cards */
+.card {
+    border: none;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+.calendario .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.calendario .card {
+    background-color: #8f9192;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #343a40;
+}
+
+/* Activity Colors */
+.activity-exhibiciones {
+    background-color: #ffd6e7;
+    /* Rosa claro para exhibiciones */
+    color: #000;
+}
+
+.activity-colonias {
+    background-color: #d6f5ff;
+    /* Azul claro para colonias */
+    color: #000;
+}
+
+.activity-campus {
+    background-color: #d9ffd6;
+    /* Verde claro para campus */
+    color: #000;
+}
+
+/* Text Formatting */
+.card-body ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.card-body ul li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .card-title {
+        font-size: 1.25rem;
+    }
+
+    .card-body ul li {
+        font-size: 0.9rem;
+    }
+}
