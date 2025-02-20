@@ -1,0 +1,7 @@
+main img {
+    width: 250px;
+    /* Ajusta el tamaño deseado */
+    height: 250px;
+    object-fit: cover;
+    /* Esto asegura que la imagen se recorte en lugar de distorsionarse */
+}
