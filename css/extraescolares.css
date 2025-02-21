@@ -177,11 +177,14 @@ main img {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .card-title {
+
+    .card-title,
+    .calendar-table {
         font-size: 1.25rem;
     }
 
-    .card-body ul li {
+    .card-body ul li,
+    .calendar-table {
         font-size: 0.9rem;
     }
 }
