@@ -86,6 +86,10 @@ main img {
     border-radius: 8px 8px 0 0;
 }
 
+.calendar-table td {
+    font-size: 0.9rem;
+}
+
 .calendar-table td,
 .calendar-table th {
     border: 1px solid #ddd;
@@ -99,13 +103,9 @@ main img {
 
 }
 
-.calendar-table td {
-    font-size: 0.9rem;
-}
-
 /* Efecto hover genérico para todas las celdas, excepto color-14 */
 .calendar-table td:not(.color-14):hover {
-    transform: scale(2.1);
+    transform: scale(1.5);
     /* Aumenta ligeramente el tamaño */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
     /* Sombra */
