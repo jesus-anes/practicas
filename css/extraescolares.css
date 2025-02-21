@@ -112,6 +112,12 @@ main img {
     cursor: pointer;
 }
 
+.hover-effect {
+    transform: scale(1.5);
+    /* Aumenta ligeramente el tamaño */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
 /* Colores*/
 .color-1 {
     background-color: #FFB6C1 !important;
