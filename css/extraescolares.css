@@ -64,11 +64,18 @@ main img {
     font-size: 1rem;
 }
 
+.calendar-container {
+    width: 100%;
+    overflow-x: auto;
+    /* Permite desplazamiento horizontal */
+}
+
 .calendar-table {
     border-collapse: separate;
-    border-spacing: 0;
+    border-spacing: 5px;
     /* Espaciado entre celdas */
     width: 100%;
+    min-width: 600px;
     table-layout: fixed;
 }
 
@@ -89,6 +96,7 @@ main img {
     /* Bordes redondeados */
     transition: transform 0.2s, box-shadow 0.2s;
     /* Efectos suaves */
+
 }
 
 .calendar-table td {
@@ -178,13 +186,17 @@ main img {
 /* Responsive Design */
 @media (max-width: 768px) {
 
-    .card-title,
-    .calendar-table {
+    .card-title {
         font-size: 1.25rem;
     }
 
-    .card-body ul li,
-    .calendar-table {
+    .card-body ul li {
         font-size: 0.9rem;
+    }
+
+    .calendar-table td,
+    .calendar-table th {
+        font-size: 12px;
+        padding: 5px;
     }
 }
